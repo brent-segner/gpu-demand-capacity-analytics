@@ -398,7 +398,7 @@ If you use this work in research or production:
   title = {GPU Demand vs Capacity Analytics},
   author = {Community Contributors},
   year = {2026},
-  url = {https://github.com/yourusername/gpu-demand-capacity-analytics}
+  url = {https://github.com/brent-segner/gpu-demand-capacity-analytics}
 }
 ```
 
